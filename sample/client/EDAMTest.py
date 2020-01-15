@@ -30,7 +30,7 @@ from evernote.api.client import EvernoteClient
 # refer to https://dev.evernote.com/doc/articles/testing.php 
 # and https://dev.evernote.com/doc/articles/bootstrap.php
 
-auth_token = "your developer token"
+auth_token = "S=s1:U=95a6e:E=177027a0196:C=16faac8d4b0:P=1cd:A=en-devtoken:V=2:H=7dbe70d97ccbbe180e48cc843022dd84"
 
 if auth_token == "your developer token":
     print "Please fill in your developer token"
